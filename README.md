@@ -12,4 +12,4 @@ Feel free to Raise Pull Requests and add your own shell scripts in this project 
 git clone https://github.com/vinitraj10/Shell-Scripting
 ```
 # Run Scripts
-<code>sh filename.sh</code>
+<pre>sh filename.sh</pre>
