@@ -30,7 +30,7 @@ int main(){
 	for(i=1;i<n;i++){
 		p[i].tat=p[i-1].bt+p[i].bt;
 		p[i].wt=p[i].tat - p[i].bt;
-		printf(" %d \t\t %d\t\t %d \t\t %d \n",p[i].id,p[i].bt,p[i].tat,p[i].wt);
+		printf(" %d \t\t %d\t\t %d \t\t %d \n",p[i].id,p[i].bt,p[i].wt,p[i].tat);	
 	}
 	return 0;
 }
