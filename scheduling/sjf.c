@@ -14,7 +14,7 @@ int compare(const void* a, const void* b){
 
 int main(){
 	int n,i;
-	printf("Enter the number of processes:-\n");
+	printf("Enter the number of Processes:-\n");
 	scanf("%d",&n);
 	process p[n];
 	for(i=0;i<n;i++){
